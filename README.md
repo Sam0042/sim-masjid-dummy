@@ -1,71 +1,59 @@
-<<<<<<< HEAD
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🕌 Sistem Informasi Manajemen (SIM) Masjid Jami Roudhotul Jannah
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-## About Laravel
+> **Sistem Informasi Manajemen (SIM) Masjid** adalah aplikasi berbasis web yang dirancang untuk mengunggah, mengelola, serta mempublikasikan kegiatan administrasi, laporan keuangan, dan inventarisasi masjid secara transparan dan terstruktur.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 📄 Dokumentasi Teknis & Skripsi
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Dokumentasi lengkap mengenai analisis kebutuhan sistem, perancangan arsitektur, diagram UML, skema *database*, hingga pengujian fungsi (*Black-Box Testing* & *User Acceptance Testing*) dapat diakses secara publik pada tautan berikut:
 
-## Learning Laravel
+📄 **[Baca Laporan Skripsi & Dokumentasi Sistem (Google Drive)](https://drive.google.com/file/d/1ypNppBVCE-k6tdxB2sdf-O422wHSguKu/view?usp=sharing)**
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+---
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 📌 Fitur Utama
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- **Manajemen Keuangan & Kas:** Pencatatan pemasukan dan pengeluaran kas masjid secara akurat.
+- **Manajemen Inventaris:** Pendataan aset dan barang milik masjid beserta status kelayakannya.
+- **Pengelolaan Kegiatan:** Jadwal penceramah, agenda pengajian, dan kegiatan operasional harian.
+- **Laporan Transparan:** Generasi laporan ringkasan yang siap diakses oleh pengurus maupun jamaah.
 
-## Laravel Sponsors
+---
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## 🛠️ Stack Teknologi & Alat
 
-### Premium Partners
+- **Backend:** PHP / Laravel Framework
+- **Frontend:** Blade Templating, Tailwind CSS / Bootstrap
+- **Database:** MySQL
+- **Metodologi Pengembangan:** Extreme Programming (XP)
+- **Pengujian Sistem:** Black-Box Functional Testing & User Acceptance Testing (UAT)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+---
 
-## Contributing
+## 👨‍💻 Peran & Kontribusi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Dalam pengembangan proyek ini, saya berperan sebagai **Full-Stack Web Developer** yang bertanggung jawab atas:
+1. Perancangan struktur basis data relasional (*Entity Relationship Diagram*).
+2. Pembangunan *core logic* backend berbasis framework Laravel.
+3. Integrasi antarmuka pengguna (UI) agar responsif di berbagai perangkat.
+4. Pelaksanaan pengujian fungsi dan analisis kepuasan pengguna (*UAT*).
 
-## Code of Conduct
+---
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## 🚀 Cara Menjalankan Proyek Secara Lokal
 
-## Security Vulnerabilities
+1. **Clone Repositori**
+   ```bash
+   git clone [https://github.com/username/sim-masjid.git](https://github.com/username/sim-masjid.git)
+   cd sim-masjid
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-# msib6
-Ini adalah repository untuk project pertama di MSIB 6
->>>>>>> e3e630b50405b13a883903673eaa8fb33edb4aa3
+## ⚠ CATATAN!
+Sebelum migrate tolong buat data dengan role ubudiyah/ketua/bendahara di UserSeeder
