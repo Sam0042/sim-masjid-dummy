@@ -1,9 +1,3 @@
-# My Awesome Portfolio Website
-
-## ⚠ PERHATIAN!
-**Repositori Dummy:** Repositori ini adalah salinan dummy untuk portofolio. Data autentikasi pada *UserSeeder* telah disamarkan demi keamanan.
-Sebelum migrate tolong buat data dengan role ubudiyah/ketua/bendahara di UserSeeder.
-
 # 🕌 Sistem Informasi Manajemen (SIM) Masjid Jami Roudhotul Jannah
 
 <p align="center">
@@ -59,3 +53,7 @@ Dalam pengembangan proyek ini, saya berperan sebagai **Full-Stack Web Developer*
    ```bash
    git clone [https://github.com/username/sim-masjid.git](https://github.com/Sam0042/sim-masjid-dummy.git)
    cd sim-masjid-dummy
+
+## ⚠ PERHATIAN!
+**Repositori Dummy:** Repositori ini adalah salinan dummy untuk portofolio. Data autentikasi pada *UserSeeder* telah disamarkan demi keamanan.
+Sebelum migrate tolong buat data dengan role ubudiyah/ketua/bendahara di UserSeeder.
